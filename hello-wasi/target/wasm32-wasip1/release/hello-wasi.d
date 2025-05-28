@@ -1,0 +1,1 @@
+/home/tomoyafujita/DVT/03_OSS/github.com/fujitatomoya/wasm_playground/hello-wasi/target/wasm32-wasip1/release/hello-wasi.wasm: /home/tomoyafujita/DVT/03_OSS/github.com/fujitatomoya/wasm_playground/hello-wasi/src/main.rs
